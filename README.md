@@ -70,6 +70,3 @@ What are the trends in order cancellations?
 
 👩‍💻 Author
 Mercy Hajara Iliya
-Power Query
-DAX
-Data Modeling
